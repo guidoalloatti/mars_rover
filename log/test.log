@@ -1,0 +1,404 @@
+Started GET "/specs?reporters=console&spec" for 127.0.0.1 at 2014-08-22 10:24:57 -0300
+Processing by JasmineRails::SpecRunnerController#index as HTML
+  Parameters: {"reporters"=>"console", "spec"=>nil}
+  Rendered /Users/guido/.rvm/gems/ruby-1.9.3-p385/gems/jasmine-rails-0.10.2/app/views/jasmine_rails/spec_runner/index.html.erb within layouts/jasmine_rails/spec_runner (2.5ms)
+Compiling jasmine.css to /Users/guido/marsRover/tmp/jasmine/assets/jasmine.css
+Compiling jasmine-specs.css to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-specs.css
+Compiling jasmine.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine.js
+Compiling jasmine-html.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-html.js
+Compiling json2.js to /Users/guido/marsRover/tmp/jasmine/assets/json2.js
+Compiling boot.js to /Users/guido/marsRover/tmp/jasmine/assets/boot.js
+Compiling jasmine-console-shims.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-console-shims.js
+Compiling jasmine-console-reporter.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-console-reporter.js
+Compiling jasmine-specs.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-specs.js
+Completed 200 OK in 1270ms (Views: 1229.8ms | ActiveRecord: 0.0ms)
+Started GET "/specs?reporters=console&spec" for 127.0.0.1 at 2014-08-22 10:25:48 -0300
+Processing by JasmineRails::SpecRunnerController#index as HTML
+  Parameters: {"reporters"=>"console", "spec"=>nil}
+  Rendered /Users/guido/.rvm/gems/ruby-1.9.3-p385/gems/jasmine-rails-0.10.2/app/views/jasmine_rails/spec_runner/index.html.erb within layouts/jasmine_rails/spec_runner (2.0ms)
+Compiling jasmine.css to /Users/guido/marsRover/tmp/jasmine/assets/jasmine.css
+Compiling jasmine-specs.css to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-specs.css
+Compiling jasmine.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine.js
+Compiling jasmine-html.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-html.js
+Compiling json2.js to /Users/guido/marsRover/tmp/jasmine/assets/json2.js
+Compiling boot.js to /Users/guido/marsRover/tmp/jasmine/assets/boot.js
+Compiling jasmine-console-shims.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-console-shims.js
+Compiling jasmine-console-reporter.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-console-reporter.js
+Compiling jasmine-specs.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-specs.js
+Completed 200 OK in 101ms (Views: 65.6ms | ActiveRecord: 0.0ms)
+Started GET "/specs?reporters=console&spec" for 127.0.0.1 at 2014-08-22 10:26:44 -0300
+Processing by JasmineRails::SpecRunnerController#index as HTML
+  Parameters: {"reporters"=>"console", "spec"=>nil}
+  Rendered /Users/guido/.rvm/gems/ruby-1.9.3-p385/gems/jasmine-rails-0.10.2/app/views/jasmine_rails/spec_runner/index.html.erb within layouts/jasmine_rails/spec_runner (2.1ms)
+Compiling jasmine.css to /Users/guido/marsRover/tmp/jasmine/assets/jasmine.css
+Compiling jasmine-specs.css to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-specs.css
+Compiling jasmine.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine.js
+Compiling jasmine-html.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-html.js
+Compiling json2.js to /Users/guido/marsRover/tmp/jasmine/assets/json2.js
+Compiling boot.js to /Users/guido/marsRover/tmp/jasmine/assets/boot.js
+Compiling jasmine-console-shims.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-console-shims.js
+Compiling jasmine-console-reporter.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-console-reporter.js
+Compiling jasmine-specs.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-specs.js
+Completed 200 OK in 101ms (Views: 75.5ms | ActiveRecord: 0.0ms)
+Started GET "/specs?reporters=console&spec" for 127.0.0.1 at 2014-08-22 10:29:17 -0300
+Processing by JasmineRails::SpecRunnerController#index as HTML
+  Parameters: {"reporters"=>"console", "spec"=>nil}
+  Rendered /Users/guido/.rvm/gems/ruby-1.9.3-p385/gems/jasmine-rails-0.10.2/app/views/jasmine_rails/spec_runner/index.html.erb within layouts/jasmine_rails/spec_runner (2.1ms)
+Compiling jasmine.css to /Users/guido/marsRover/tmp/jasmine/assets/jasmine.css
+Compiling jasmine-specs.css to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-specs.css
+Compiling jasmine.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine.js
+Compiling jasmine-html.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-html.js
+Compiling json2.js to /Users/guido/marsRover/tmp/jasmine/assets/json2.js
+Compiling boot.js to /Users/guido/marsRover/tmp/jasmine/assets/boot.js
+Compiling jasmine-console-shims.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-console-shims.js
+Compiling jasmine-console-reporter.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-console-reporter.js
+Compiling jasmine-specs.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-specs.js
+Completed 200 OK in 96ms (Views: 70.2ms | ActiveRecord: 0.0ms)
+Started GET "/specs?reporters=console&spec" for 127.0.0.1 at 2014-08-22 10:31:07 -0300
+Processing by JasmineRails::SpecRunnerController#index as HTML
+  Parameters: {"reporters"=>"console", "spec"=>nil}
+  Rendered /Users/guido/.rvm/gems/ruby-1.9.3-p385/gems/jasmine-rails-0.10.2/app/views/jasmine_rails/spec_runner/index.html.erb within layouts/jasmine_rails/spec_runner (2.2ms)
+Compiling jasmine.css to /Users/guido/marsRover/tmp/jasmine/assets/jasmine.css
+Compiling jasmine-specs.css to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-specs.css
+Compiling jasmine.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine.js
+Compiling jasmine-html.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-html.js
+Compiling json2.js to /Users/guido/marsRover/tmp/jasmine/assets/json2.js
+Compiling boot.js to /Users/guido/marsRover/tmp/jasmine/assets/boot.js
+Compiling jasmine-console-shims.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-console-shims.js
+Compiling jasmine-console-reporter.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-console-reporter.js
+Completed 500 Internal Server Error in 133ms
+Started GET "/specs?reporters=console&spec" for 127.0.0.1 at 2014-08-22 10:32:05 -0300
+Processing by JasmineRails::SpecRunnerController#index as HTML
+  Parameters: {"reporters"=>"console", "spec"=>nil}
+  Rendered /Users/guido/.rvm/gems/ruby-1.9.3-p385/gems/jasmine-rails-0.10.2/app/views/jasmine_rails/spec_runner/index.html.erb within layouts/jasmine_rails/spec_runner (2.0ms)
+Compiling jasmine.css to /Users/guido/marsRover/tmp/jasmine/assets/jasmine.css
+Compiling jasmine-specs.css to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-specs.css
+Compiling jasmine.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine.js
+Compiling jasmine-html.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-html.js
+Compiling json2.js to /Users/guido/marsRover/tmp/jasmine/assets/json2.js
+Compiling boot.js to /Users/guido/marsRover/tmp/jasmine/assets/boot.js
+Compiling jasmine-console-shims.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-console-shims.js
+Compiling jasmine-console-reporter.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-console-reporter.js
+Completed 500 Internal Server Error in 105ms
+Started GET "/specs?reporters=console&spec" for 127.0.0.1 at 2014-08-22 10:33:06 -0300
+Processing by JasmineRails::SpecRunnerController#index as HTML
+  Parameters: {"reporters"=>"console", "spec"=>nil}
+  Rendered /Users/guido/.rvm/gems/ruby-1.9.3-p385/gems/jasmine-rails-0.10.2/app/views/jasmine_rails/spec_runner/index.html.erb within layouts/jasmine_rails/spec_runner (2.1ms)
+Compiling jasmine.css to /Users/guido/marsRover/tmp/jasmine/assets/jasmine.css
+Compiling jasmine-specs.css to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-specs.css
+Compiling jasmine.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine.js
+Compiling jasmine-html.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-html.js
+Compiling json2.js to /Users/guido/marsRover/tmp/jasmine/assets/json2.js
+Compiling boot.js to /Users/guido/marsRover/tmp/jasmine/assets/boot.js
+Compiling jasmine-console-shims.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-console-shims.js
+Compiling jasmine-console-reporter.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-console-reporter.js
+Compiling jasmine-specs.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-specs.js
+Completed 200 OK in 105ms (Views: 76.4ms | ActiveRecord: 0.0ms)
+Started GET "/specs?reporters=console&spec" for 127.0.0.1 at 2014-08-22 10:34:41 -0300
+Processing by JasmineRails::SpecRunnerController#index as HTML
+  Parameters: {"reporters"=>"console", "spec"=>nil}
+  Rendered /Users/guido/.rvm/gems/ruby-1.9.3-p385/gems/jasmine-rails-0.10.2/app/views/jasmine_rails/spec_runner/index.html.erb within layouts/jasmine_rails/spec_runner (2.2ms)
+Compiling jasmine.css to /Users/guido/marsRover/tmp/jasmine/assets/jasmine.css
+Compiling jasmine-specs.css to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-specs.css
+Compiling jasmine.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine.js
+Compiling jasmine-html.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-html.js
+Compiling json2.js to /Users/guido/marsRover/tmp/jasmine/assets/json2.js
+Compiling boot.js to /Users/guido/marsRover/tmp/jasmine/assets/boot.js
+Compiling jasmine-console-shims.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-console-shims.js
+Compiling jasmine-console-reporter.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-console-reporter.js
+Compiling jasmine-specs.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-specs.js
+Completed 200 OK in 118ms (Views: 90.0ms | ActiveRecord: 0.0ms)
+Started GET "/specs?reporters=console&spec" for 127.0.0.1 at 2014-08-22 10:35:22 -0300
+Processing by JasmineRails::SpecRunnerController#index as HTML
+  Parameters: {"reporters"=>"console", "spec"=>nil}
+  Rendered /Users/guido/.rvm/gems/ruby-1.9.3-p385/gems/jasmine-rails-0.10.2/app/views/jasmine_rails/spec_runner/index.html.erb within layouts/jasmine_rails/spec_runner (2.0ms)
+Compiling jasmine.css to /Users/guido/marsRover/tmp/jasmine/assets/jasmine.css
+Compiling jasmine-specs.css to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-specs.css
+Compiling jasmine.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine.js
+Compiling jasmine-html.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-html.js
+Compiling json2.js to /Users/guido/marsRover/tmp/jasmine/assets/json2.js
+Compiling boot.js to /Users/guido/marsRover/tmp/jasmine/assets/boot.js
+Compiling jasmine-console-shims.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-console-shims.js
+Compiling jasmine-console-reporter.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-console-reporter.js
+Compiling jasmine-specs.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-specs.js
+Completed 200 OK in 98ms (Views: 73.0ms | ActiveRecord: 0.0ms)
+Started GET "/specs?reporters=console&spec" for 127.0.0.1 at 2014-08-22 10:36:01 -0300
+Processing by JasmineRails::SpecRunnerController#index as HTML
+  Parameters: {"reporters"=>"console", "spec"=>nil}
+  Rendered /Users/guido/.rvm/gems/ruby-1.9.3-p385/gems/jasmine-rails-0.10.2/app/views/jasmine_rails/spec_runner/index.html.erb within layouts/jasmine_rails/spec_runner (2.1ms)
+Compiling jasmine.css to /Users/guido/marsRover/tmp/jasmine/assets/jasmine.css
+Compiling jasmine-specs.css to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-specs.css
+Compiling jasmine.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine.js
+Compiling jasmine-html.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-html.js
+Compiling json2.js to /Users/guido/marsRover/tmp/jasmine/assets/json2.js
+Compiling boot.js to /Users/guido/marsRover/tmp/jasmine/assets/boot.js
+Compiling jasmine-console-shims.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-console-shims.js
+Compiling jasmine-console-reporter.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-console-reporter.js
+Compiling jasmine-specs.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-specs.js
+Completed 200 OK in 108ms (Views: 82.2ms | ActiveRecord: 0.0ms)
+Started GET "/specs?reporters=console&spec" for 127.0.0.1 at 2014-08-22 10:36:23 -0300
+Processing by JasmineRails::SpecRunnerController#index as HTML
+  Parameters: {"reporters"=>"console", "spec"=>nil}
+  Rendered /Users/guido/.rvm/gems/ruby-1.9.3-p385/gems/jasmine-rails-0.10.2/app/views/jasmine_rails/spec_runner/index.html.erb within layouts/jasmine_rails/spec_runner (4.0ms)
+Compiling jasmine.css to /Users/guido/marsRover/tmp/jasmine/assets/jasmine.css
+Compiling jasmine-specs.css to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-specs.css
+Compiling jasmine.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine.js
+Compiling jasmine-html.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-html.js
+Compiling json2.js to /Users/guido/marsRover/tmp/jasmine/assets/json2.js
+Compiling boot.js to /Users/guido/marsRover/tmp/jasmine/assets/boot.js
+Compiling jasmine-console-shims.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-console-shims.js
+Compiling jasmine-console-reporter.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-console-reporter.js
+Compiling jasmine-specs.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-specs.js
+Completed 200 OK in 142ms (Views: 109.5ms | ActiveRecord: 0.0ms)
+Started GET "/specs?reporters=console&spec" for 127.0.0.1 at 2014-08-22 10:36:55 -0300
+Processing by JasmineRails::SpecRunnerController#index as HTML
+  Parameters: {"reporters"=>"console", "spec"=>nil}
+  Rendered /Users/guido/.rvm/gems/ruby-1.9.3-p385/gems/jasmine-rails-0.10.2/app/views/jasmine_rails/spec_runner/index.html.erb within layouts/jasmine_rails/spec_runner (2.1ms)
+Compiling jasmine.css to /Users/guido/marsRover/tmp/jasmine/assets/jasmine.css
+Compiling jasmine-specs.css to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-specs.css
+Compiling jasmine.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine.js
+Compiling jasmine-html.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-html.js
+Compiling json2.js to /Users/guido/marsRover/tmp/jasmine/assets/json2.js
+Compiling boot.js to /Users/guido/marsRover/tmp/jasmine/assets/boot.js
+Compiling jasmine-console-shims.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-console-shims.js
+Compiling jasmine-console-reporter.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-console-reporter.js
+Compiling jasmine-specs.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-specs.js
+Completed 200 OK in 110ms (Views: 84.9ms | ActiveRecord: 0.0ms)
+Started GET "/specs?reporters=console&spec" for 127.0.0.1 at 2014-08-22 10:37:12 -0300
+Processing by JasmineRails::SpecRunnerController#index as HTML
+  Parameters: {"reporters"=>"console", "spec"=>nil}
+  Rendered /Users/guido/.rvm/gems/ruby-1.9.3-p385/gems/jasmine-rails-0.10.2/app/views/jasmine_rails/spec_runner/index.html.erb within layouts/jasmine_rails/spec_runner (2.2ms)
+Compiling jasmine.css to /Users/guido/marsRover/tmp/jasmine/assets/jasmine.css
+Compiling jasmine-specs.css to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-specs.css
+Compiling jasmine.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine.js
+Compiling jasmine-html.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-html.js
+Compiling json2.js to /Users/guido/marsRover/tmp/jasmine/assets/json2.js
+Compiling boot.js to /Users/guido/marsRover/tmp/jasmine/assets/boot.js
+Compiling jasmine-console-shims.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-console-shims.js
+Compiling jasmine-console-reporter.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-console-reporter.js
+Compiling jasmine-specs.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-specs.js
+Completed 200 OK in 115ms (Views: 89.4ms | ActiveRecord: 0.0ms)
+Started GET "/specs?reporters=console&spec" for 127.0.0.1 at 2014-08-22 10:38:02 -0300
+Processing by JasmineRails::SpecRunnerController#index as HTML
+  Parameters: {"reporters"=>"console", "spec"=>nil}
+  Rendered /Users/guido/.rvm/gems/ruby-1.9.3-p385/gems/jasmine-rails-0.10.2/app/views/jasmine_rails/spec_runner/index.html.erb within layouts/jasmine_rails/spec_runner (2.1ms)
+Compiling jasmine.css to /Users/guido/marsRover/tmp/jasmine/assets/jasmine.css
+Compiling jasmine-specs.css to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-specs.css
+Compiling jasmine.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine.js
+Compiling jasmine-html.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-html.js
+Compiling json2.js to /Users/guido/marsRover/tmp/jasmine/assets/json2.js
+Compiling boot.js to /Users/guido/marsRover/tmp/jasmine/assets/boot.js
+Compiling jasmine-console-shims.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-console-shims.js
+Compiling jasmine-console-reporter.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-console-reporter.js
+Compiling jasmine-specs.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-specs.js
+Completed 200 OK in 112ms (Views: 80.8ms | ActiveRecord: 0.0ms)
+Started GET "/specs?reporters=console&spec" for 127.0.0.1 at 2014-08-22 10:39:01 -0300
+Processing by JasmineRails::SpecRunnerController#index as HTML
+  Parameters: {"reporters"=>"console", "spec"=>nil}
+  Rendered /Users/guido/.rvm/gems/ruby-1.9.3-p385/gems/jasmine-rails-0.10.2/app/views/jasmine_rails/spec_runner/index.html.erb within layouts/jasmine_rails/spec_runner (2.0ms)
+Compiling jasmine.css to /Users/guido/marsRover/tmp/jasmine/assets/jasmine.css
+Compiling jasmine-specs.css to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-specs.css
+Compiling jasmine.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine.js
+Compiling jasmine-html.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-html.js
+Compiling json2.js to /Users/guido/marsRover/tmp/jasmine/assets/json2.js
+Compiling boot.js to /Users/guido/marsRover/tmp/jasmine/assets/boot.js
+Compiling jasmine-console-shims.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-console-shims.js
+Compiling jasmine-console-reporter.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-console-reporter.js
+Compiling jasmine-specs.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-specs.js
+Completed 200 OK in 109ms (Views: 83.4ms | ActiveRecord: 0.0ms)
+Started GET "/specs?reporters=console&spec" for 127.0.0.1 at 2014-08-22 11:15:16 -0300
+Processing by JasmineRails::SpecRunnerController#index as HTML
+  Parameters: {"reporters"=>"console", "spec"=>nil}
+  Rendered /Users/guido/.rvm/gems/ruby-1.9.3-p385/gems/jasmine-rails-0.10.2/app/views/jasmine_rails/spec_runner/index.html.erb within layouts/jasmine_rails/spec_runner (2.1ms)
+Compiling jasmine.css to /Users/guido/marsRover/tmp/jasmine/assets/jasmine.css
+Compiling jasmine-specs.css to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-specs.css
+Compiling jasmine.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine.js
+Compiling jasmine-html.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-html.js
+Compiling json2.js to /Users/guido/marsRover/tmp/jasmine/assets/json2.js
+Compiling boot.js to /Users/guido/marsRover/tmp/jasmine/assets/boot.js
+Compiling jasmine-console-shims.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-console-shims.js
+Compiling jasmine-console-reporter.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-console-reporter.js
+Compiling jasmine-specs.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-specs.js
+Completed 200 OK in 105ms (Views: 79.5ms | ActiveRecord: 0.0ms)
+Started GET "/specs?reporters=console&spec" for 127.0.0.1 at 2014-08-22 11:17:06 -0300
+Processing by JasmineRails::SpecRunnerController#index as HTML
+  Parameters: {"reporters"=>"console", "spec"=>nil}
+  Rendered /Users/guido/.rvm/gems/ruby-1.9.3-p385/gems/jasmine-rails-0.10.2/app/views/jasmine_rails/spec_runner/index.html.erb within layouts/jasmine_rails/spec_runner (2.0ms)
+Compiling jasmine.css to /Users/guido/marsRover/tmp/jasmine/assets/jasmine.css
+Compiling jasmine-specs.css to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-specs.css
+Compiling jasmine.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine.js
+Compiling jasmine-html.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-html.js
+Compiling json2.js to /Users/guido/marsRover/tmp/jasmine/assets/json2.js
+Compiling boot.js to /Users/guido/marsRover/tmp/jasmine/assets/boot.js
+Compiling jasmine-console-shims.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-console-shims.js
+Compiling jasmine-console-reporter.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-console-reporter.js
+Compiling jasmine-specs.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-specs.js
+Completed 200 OK in 128ms (Views: 90.5ms | ActiveRecord: 0.0ms)
+Started GET "/specs?reporters=console&spec" for 127.0.0.1 at 2014-08-22 11:17:42 -0300
+Processing by JasmineRails::SpecRunnerController#index as HTML
+  Parameters: {"reporters"=>"console", "spec"=>nil}
+  Rendered /Users/guido/.rvm/gems/ruby-1.9.3-p385/gems/jasmine-rails-0.10.2/app/views/jasmine_rails/spec_runner/index.html.erb within layouts/jasmine_rails/spec_runner (2.0ms)
+Compiling jasmine.css to /Users/guido/marsRover/tmp/jasmine/assets/jasmine.css
+Compiling jasmine-specs.css to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-specs.css
+Compiling jasmine.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine.js
+Compiling jasmine-html.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-html.js
+Compiling json2.js to /Users/guido/marsRover/tmp/jasmine/assets/json2.js
+Compiling boot.js to /Users/guido/marsRover/tmp/jasmine/assets/boot.js
+Compiling jasmine-console-shims.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-console-shims.js
+Compiling jasmine-console-reporter.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-console-reporter.js
+Compiling jasmine-specs.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-specs.js
+Completed 200 OK in 102ms (Views: 77.3ms | ActiveRecord: 0.0ms)
+Started GET "/specs?reporters=console&spec" for 127.0.0.1 at 2014-08-22 11:19:07 -0300
+Processing by JasmineRails::SpecRunnerController#index as HTML
+  Parameters: {"reporters"=>"console", "spec"=>nil}
+  Rendered /Users/guido/.rvm/gems/ruby-1.9.3-p385/gems/jasmine-rails-0.10.2/app/views/jasmine_rails/spec_runner/index.html.erb within layouts/jasmine_rails/spec_runner (2.7ms)
+Compiling jasmine.css to /Users/guido/marsRover/tmp/jasmine/assets/jasmine.css
+Compiling jasmine-specs.css to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-specs.css
+Compiling jasmine.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine.js
+Compiling jasmine-html.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-html.js
+Compiling json2.js to /Users/guido/marsRover/tmp/jasmine/assets/json2.js
+Compiling boot.js to /Users/guido/marsRover/tmp/jasmine/assets/boot.js
+Compiling jasmine-console-shims.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-console-shims.js
+Compiling jasmine-console-reporter.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-console-reporter.js
+Compiling jasmine-specs.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-specs.js
+Completed 200 OK in 116ms (Views: 86.1ms | ActiveRecord: 0.0ms)
+Started GET "/specs?reporters=console&spec" for 127.0.0.1 at 2014-08-22 11:19:43 -0300
+Processing by JasmineRails::SpecRunnerController#index as HTML
+  Parameters: {"reporters"=>"console", "spec"=>nil}
+  Rendered /Users/guido/.rvm/gems/ruby-1.9.3-p385/gems/jasmine-rails-0.10.2/app/views/jasmine_rails/spec_runner/index.html.erb within layouts/jasmine_rails/spec_runner (2.0ms)
+Compiling jasmine.css to /Users/guido/marsRover/tmp/jasmine/assets/jasmine.css
+Compiling jasmine-specs.css to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-specs.css
+Compiling jasmine.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine.js
+Compiling jasmine-html.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-html.js
+Compiling json2.js to /Users/guido/marsRover/tmp/jasmine/assets/json2.js
+Compiling boot.js to /Users/guido/marsRover/tmp/jasmine/assets/boot.js
+Compiling jasmine-console-shims.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-console-shims.js
+Compiling jasmine-console-reporter.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-console-reporter.js
+Compiling jasmine-specs.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-specs.js
+Completed 200 OK in 110ms (Views: 76.1ms | ActiveRecord: 0.0ms)
+Started GET "/specs?reporters=console&spec" for 127.0.0.1 at 2014-08-22 11:21:10 -0300
+Processing by JasmineRails::SpecRunnerController#index as HTML
+  Parameters: {"reporters"=>"console", "spec"=>nil}
+  Rendered /Users/guido/.rvm/gems/ruby-1.9.3-p385/gems/jasmine-rails-0.10.2/app/views/jasmine_rails/spec_runner/index.html.erb within layouts/jasmine_rails/spec_runner (2.1ms)
+Compiling jasmine.css to /Users/guido/marsRover/tmp/jasmine/assets/jasmine.css
+Compiling jasmine-specs.css to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-specs.css
+Compiling jasmine.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine.js
+Compiling jasmine-html.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-html.js
+Compiling json2.js to /Users/guido/marsRover/tmp/jasmine/assets/json2.js
+Compiling boot.js to /Users/guido/marsRover/tmp/jasmine/assets/boot.js
+Compiling jasmine-console-shims.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-console-shims.js
+Compiling jasmine-console-reporter.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-console-reporter.js
+Compiling jasmine-specs.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-specs.js
+Completed 200 OK in 475ms (Views: 449.4ms | ActiveRecord: 0.0ms)
+Started GET "/specs?reporters=console&spec" for 127.0.0.1 at 2014-08-22 11:23:04 -0300
+Processing by JasmineRails::SpecRunnerController#index as HTML
+  Parameters: {"reporters"=>"console", "spec"=>nil}
+  Rendered /Users/guido/.rvm/gems/ruby-1.9.3-p385/gems/jasmine-rails-0.10.2/app/views/jasmine_rails/spec_runner/index.html.erb within layouts/jasmine_rails/spec_runner (2.0ms)
+Compiling jasmine.css to /Users/guido/marsRover/tmp/jasmine/assets/jasmine.css
+Compiling jasmine-specs.css to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-specs.css
+Compiling jasmine.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine.js
+Compiling jasmine-html.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-html.js
+Compiling json2.js to /Users/guido/marsRover/tmp/jasmine/assets/json2.js
+Compiling boot.js to /Users/guido/marsRover/tmp/jasmine/assets/boot.js
+Compiling jasmine-console-shims.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-console-shims.js
+Compiling jasmine-console-reporter.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-console-reporter.js
+Compiling jasmine-specs.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-specs.js
+Completed 200 OK in 107ms (Views: 80.6ms | ActiveRecord: 0.0ms)
+Started GET "/specs?reporters=console&spec" for 127.0.0.1 at 2014-08-22 11:24:03 -0300
+Processing by JasmineRails::SpecRunnerController#index as HTML
+  Parameters: {"reporters"=>"console", "spec"=>nil}
+  Rendered /Users/guido/.rvm/gems/ruby-1.9.3-p385/gems/jasmine-rails-0.10.2/app/views/jasmine_rails/spec_runner/index.html.erb within layouts/jasmine_rails/spec_runner (2.0ms)
+Compiling jasmine.css to /Users/guido/marsRover/tmp/jasmine/assets/jasmine.css
+Compiling jasmine-specs.css to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-specs.css
+Compiling jasmine.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine.js
+Compiling jasmine-html.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-html.js
+Compiling json2.js to /Users/guido/marsRover/tmp/jasmine/assets/json2.js
+Compiling boot.js to /Users/guido/marsRover/tmp/jasmine/assets/boot.js
+Compiling jasmine-console-shims.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-console-shims.js
+Compiling jasmine-console-reporter.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-console-reporter.js
+Compiling jasmine-specs.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-specs.js
+Completed 200 OK in 106ms (Views: 80.2ms | ActiveRecord: 0.0ms)
+Started GET "/specs?reporters=console&spec" for 127.0.0.1 at 2014-08-22 11:24:56 -0300
+Processing by JasmineRails::SpecRunnerController#index as HTML
+  Parameters: {"reporters"=>"console", "spec"=>nil}
+  Rendered /Users/guido/.rvm/gems/ruby-1.9.3-p385/gems/jasmine-rails-0.10.2/app/views/jasmine_rails/spec_runner/index.html.erb within layouts/jasmine_rails/spec_runner (2.1ms)
+Compiling jasmine.css to /Users/guido/marsRover/tmp/jasmine/assets/jasmine.css
+Compiling jasmine-specs.css to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-specs.css
+Compiling jasmine.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine.js
+Compiling jasmine-html.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-html.js
+Compiling json2.js to /Users/guido/marsRover/tmp/jasmine/assets/json2.js
+Compiling boot.js to /Users/guido/marsRover/tmp/jasmine/assets/boot.js
+Compiling jasmine-console-shims.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-console-shims.js
+Compiling jasmine-console-reporter.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-console-reporter.js
+Compiling jasmine-specs.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-specs.js
+Completed 200 OK in 108ms (Views: 83.1ms | ActiveRecord: 0.0ms)
+Started GET "/specs?reporters=console&spec" for 127.0.0.1 at 2014-08-22 11:25:17 -0300
+Processing by JasmineRails::SpecRunnerController#index as HTML
+  Parameters: {"reporters"=>"console", "spec"=>nil}
+  Rendered /Users/guido/.rvm/gems/ruby-1.9.3-p385/gems/jasmine-rails-0.10.2/app/views/jasmine_rails/spec_runner/index.html.erb within layouts/jasmine_rails/spec_runner (2.0ms)
+Compiling jasmine.css to /Users/guido/marsRover/tmp/jasmine/assets/jasmine.css
+Compiling jasmine-specs.css to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-specs.css
+Compiling jasmine.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine.js
+Compiling jasmine-html.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-html.js
+Compiling json2.js to /Users/guido/marsRover/tmp/jasmine/assets/json2.js
+Compiling boot.js to /Users/guido/marsRover/tmp/jasmine/assets/boot.js
+Compiling jasmine-console-shims.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-console-shims.js
+Compiling jasmine-console-reporter.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-console-reporter.js
+Compiling jasmine-specs.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-specs.js
+Completed 200 OK in 105ms (Views: 79.6ms | ActiveRecord: 0.0ms)
+Started GET "/specs?reporters=console&spec" for 127.0.0.1 at 2014-08-22 11:25:42 -0300
+Processing by JasmineRails::SpecRunnerController#index as HTML
+  Parameters: {"reporters"=>"console", "spec"=>nil}
+  Rendered /Users/guido/.rvm/gems/ruby-1.9.3-p385/gems/jasmine-rails-0.10.2/app/views/jasmine_rails/spec_runner/index.html.erb within layouts/jasmine_rails/spec_runner (2.1ms)
+Compiling jasmine.css to /Users/guido/marsRover/tmp/jasmine/assets/jasmine.css
+Compiling jasmine-specs.css to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-specs.css
+Compiling jasmine.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine.js
+Compiling jasmine-html.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-html.js
+Compiling json2.js to /Users/guido/marsRover/tmp/jasmine/assets/json2.js
+Compiling boot.js to /Users/guido/marsRover/tmp/jasmine/assets/boot.js
+Compiling jasmine-console-shims.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-console-shims.js
+Compiling jasmine-console-reporter.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-console-reporter.js
+Compiling jasmine-specs.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-specs.js
+Completed 200 OK in 108ms (Views: 82.6ms | ActiveRecord: 0.0ms)
+Started GET "/specs?reporters=console&spec" for 127.0.0.1 at 2014-08-22 11:26:09 -0300
+Processing by JasmineRails::SpecRunnerController#index as HTML
+  Parameters: {"reporters"=>"console", "spec"=>nil}
+  Rendered /Users/guido/.rvm/gems/ruby-1.9.3-p385/gems/jasmine-rails-0.10.2/app/views/jasmine_rails/spec_runner/index.html.erb within layouts/jasmine_rails/spec_runner (2.0ms)
+Compiling jasmine.css to /Users/guido/marsRover/tmp/jasmine/assets/jasmine.css
+Compiling jasmine-specs.css to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-specs.css
+Compiling jasmine.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine.js
+Compiling jasmine-html.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-html.js
+Compiling json2.js to /Users/guido/marsRover/tmp/jasmine/assets/json2.js
+Compiling boot.js to /Users/guido/marsRover/tmp/jasmine/assets/boot.js
+Compiling jasmine-console-shims.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-console-shims.js
+Compiling jasmine-console-reporter.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-console-reporter.js
+Compiling jasmine-specs.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-specs.js
+Completed 200 OK in 104ms (Views: 78.8ms | ActiveRecord: 0.0ms)
+Started GET "/specs?reporters=console&spec" for 127.0.0.1 at 2014-08-22 11:27:18 -0300
+Processing by JasmineRails::SpecRunnerController#index as HTML
+  Parameters: {"reporters"=>"console", "spec"=>nil}
+  Rendered /Users/guido/.rvm/gems/ruby-1.9.3-p385/gems/jasmine-rails-0.10.2/app/views/jasmine_rails/spec_runner/index.html.erb within layouts/jasmine_rails/spec_runner (2.1ms)
+Compiling jasmine.css to /Users/guido/marsRover/tmp/jasmine/assets/jasmine.css
+Compiling jasmine-specs.css to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-specs.css
+Compiling jasmine.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine.js
+Compiling jasmine-html.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-html.js
+Compiling json2.js to /Users/guido/marsRover/tmp/jasmine/assets/json2.js
+Compiling boot.js to /Users/guido/marsRover/tmp/jasmine/assets/boot.js
+Compiling jasmine-console-shims.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-console-shims.js
+Compiling jasmine-console-reporter.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-console-reporter.js
+Compiling jasmine-specs.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-specs.js
+Completed 200 OK in 104ms (Views: 75.2ms | ActiveRecord: 0.0ms)
+Started GET "/specs?reporters=console&spec" for 127.0.0.1 at 2014-08-22 11:27:46 -0300
+Processing by JasmineRails::SpecRunnerController#index as HTML
+  Parameters: {"reporters"=>"console", "spec"=>nil}
+  Rendered /Users/guido/.rvm/gems/ruby-1.9.3-p385/gems/jasmine-rails-0.10.2/app/views/jasmine_rails/spec_runner/index.html.erb within layouts/jasmine_rails/spec_runner (2.1ms)
+Compiling jasmine.css to /Users/guido/marsRover/tmp/jasmine/assets/jasmine.css
+Compiling jasmine-specs.css to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-specs.css
+Compiling jasmine.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine.js
+Compiling jasmine-html.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-html.js
+Compiling json2.js to /Users/guido/marsRover/tmp/jasmine/assets/json2.js
+Compiling boot.js to /Users/guido/marsRover/tmp/jasmine/assets/boot.js
+Compiling jasmine-console-shims.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-console-shims.js
+Compiling jasmine-console-reporter.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-console-reporter.js
+Compiling jasmine-specs.js to /Users/guido/marsRover/tmp/jasmine/assets/jasmine-specs.js
+Completed 200 OK in 104ms (Views: 78.5ms | ActiveRecord: 0.0ms)
